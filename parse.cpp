@@ -46,12 +46,12 @@ void getPrefixes(string& line, std::map<string, vector<string> >& prefixes)
                 if (tItr-itr > 4)
                 {
                     tFound = true;
-                    cout << "t Found!" << endl;
+                    //cout << "t Found!" << endl;
                 }
                 else
                 {
                     type = "";
-                    cout << "t Not found!" << endl;
+                    //cout << "t Not found!" << endl;
                 }
             }
 
@@ -76,7 +76,7 @@ void getPrefixes(string& line, std::map<string, vector<string> >& prefixes)
 
             if (tFound)
             {
-                cout << "Found" << endl;
+                //cout << "Found" << endl;
                 //prefixes.insert(pair<string, string>(p, type));
                 prefixes[p].push_back(type);
                 break;
@@ -85,14 +85,46 @@ void getPrefixes(string& line, std::map<string, vector<string> >& prefixes)
 
 }
 
+void getLinks(string& line, std::map<string, string>& links)
+{
+    int itr = 0;
+    string type="";
+    string link="";
+    //find type - before =
+    while(line[itr] != '=')
+    {
+        if (!isspace(line[itr]))
+        {
+            type+=line[itr];
+        }
+        itr++;
+    }
+    itr++; //get rid of =
+    while(itr < line.size())
+    {
+        if (!isspace(line[itr]))
+        {
+            link+=line[itr];
+        }
+        itr++;
+    }
+    //cout << type << " " << link << endl;
+    //save type to link
+    links.insert(pair<string, string>(type, link));
+
+}
+
 
 int main(int argc, char* argv[])
 {
     ifstream test;
     string fileName = "file1.txt";
+    string fileTwo = "file2.txt";
     test.open(fileName.c_str());
     string line;
-    std::map<string, vector<string> > prefixes;
+    std::map<string, vector<string> > prefixes; //prefix to type
+    std::map<string, string> links;//type to link
+    std::map<string, vector<string> > preLink; //prefix to link
     //multimap vs vector
     while(std::getline(test, line))
     {
@@ -101,6 +133,7 @@ int main(int argc, char* argv[])
 
     }
     //cout << "hi" << endl;
+    /*
     map<string, vector<string> >::const_iterator itr;
     for (itr = prefixes.begin(); itr != prefixes.end(); itr++)
     {
@@ -111,6 +144,43 @@ int main(int argc, char* argv[])
             cout << *vitr << ", ";
         }
         cout << endl;
+    }*/
+    test.close();
+    //run through the prefixes of each
+    test.open(fileTwo.c_str());
+    while (std::getline(test, line))
+    {
+        getLinks(line, links);
+    }
+    test.close();
+
+    //everything is there
+    map<string, vector<string> >::const_iterator itr;
+    for (itr = prefixes.begin(); itr != prefixes.end(); itr++)
+    {
+        cout << "else if(prefix== '" << itr->first << "') {" << endl;
+        cout << "return '" ;
+        for(vector<string>::const_iterator vitr = itr->second.begin(); vitr != itr->second.end(); vitr++)
+        {
+            //cout << *vitr << ", ";
+            //running through itr(prefix) vitrs(types) match to link
+            //save prefix to link
+            if (links.find(*vitr) != links.end())
+            {
+                if (vitr+1 != itr->second.end())
+                {
+
+                cout << links[*vitr] << " ";
+                }
+                else
+                {
+                    cout << links[*vitr];
+                }
+                preLink[itr->first].push_back(links[*vitr]);
+            }
+        }
+        cout << "';" << endl;
+        cout << "}" << endl;
     }
     return 0;
 }

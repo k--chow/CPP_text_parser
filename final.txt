@@ -1,0 +1,1092 @@
+if(prefix== 'ABE') {
+return 'agribioe.htm chemical.htm';
+}
+else if(prefix== 'ABT') {
+return 'langarab.htm';
+}
+else if(prefix== 'ACG') {
+return 'accounts.htm';
+}
+else if(prefix== 'ADV') {
+return 'advertis.htm masscomm.htm';
+}
+else if(prefix== 'AEB') {
+return 'agriture.htm agriopma.htm foodreso.htm mechaero.htm';
+}
+else if(prefix== 'AEC') {
+return 'agriedco.htm';
+}
+else if(prefix== 'AEE') {
+return 'agriture.htm foodreso.htm';
+}
+else if(prefix== 'AFA') {
+return 'afrstudi.htm';
+}
+else if(prefix== 'AFH') {
+return 'afrstudi.htm historys.htm';
+}
+else if(prefix== 'AFR') {
+return 'miliafor.htm';
+}
+else if(prefix== 'AFS') {
+return 'afrstudi.htm anthropo.htm';
+}
+else if(prefix== 'AGG') {
+return 'agriedco.htm agronomy.htm';
+}
+else if(prefix== 'AGR') {
+return 'agronomy.htm';
+}
+else if(prefix== 'AHM') {
+return 'afrstudi.htm langaaaa.htm ';
+}
+else if(prefix== 'AKA') {
+return 'afrstudi.htm langakan.htm langaaaa.htm';
+}
+else if(prefix== 'ALS') {
+return 'agriedco.htm agriopma.htm agriture.htm agronomy.htm animalsc.htm entomolo.htm envrhort.htm foodreso.htm horticul.htm plantpat.htm soilwatr.htm';
+}
+else if(prefix== 'AMH') {
+return 'afrstudi.htm historys.htm langaaaa.htm';
+}
+else if(prefix== 'AML') {
+return 'englishs.htm';
+}
+else if(prefix== 'ANG') {
+return 'anthropo.htm';
+}
+else if(prefix== 'ANS') {
+return 'animalsc.htm';
+}
+else if(prefix== 'ANT') {
+return 'anthropo.htm religion.htm';
+}
+else if(prefix== 'AOM') {
+return 'agribioe.htm agriopma.htm';
+}
+else if(prefix== 'APK') {
+return 'applyphys.htm healthed.htm tourismr.htm';
+}
+else if(prefix== 'ARA') {
+return 'afrstudi.htm langarab.htm';
+}
+else if(prefix== 'ARC') {
+return 'architec.htm desconpl.htm';
+}
+else if(prefix== 'ARE') {
+return 'arthisto.htm educattl.htm';
+}
+else if(prefix== 'ARH') {
+return 'arthisto.htm interdis.htm';
+}
+else if(prefix== 'ART') {
+return 'arthisto.htm finearts.htm';
+}
+else if(prefix== 'ASH') {
+return 'historys.htm';
+}
+else if(prefix== 'ASL') {
+return 'speechlh.htm';
+}
+else if(prefix== 'ASN') {
+return '';
+}
+else if(prefix== 'AST') {
+return 'astronom.htm bibozozo.htm physicss.htm';
+}
+else if(prefix== 'ATE') {
+return 'animalsc.htm';
+}
+else if(prefix== 'ATR') {
+return 'applyphys.htm';
+}
+else if(prefix== 'BCC') {
+return '';
+}
+else if(prefix== 'BCH') {
+return 'agriture.htm bibozobo.htm envrhort.htm medibioc.htm';
+}
+else if(prefix== 'BCN') {
+return '';
+}
+else if(prefix== 'BME') {
+return 'biomedeg.htm chemical.htm electric.htm material.htm mediradi.htm';
+}
+else if(prefix== 'BMS') {
+return '';
+}
+else if(prefix== 'BOT') {
+return 'bibozobo.htm bibozozo.htm geoscien.htm';
+}
+else if(prefix== 'BSC') {
+return 'bibozobi.htm bibozozo.htm healthpr.htm microbio.htm';
+}
+else if(prefix== 'BUL') {
+return 'manageme.htm';
+}
+else if(prefix== 'CAP') {
+return 'computer.htm';
+}
+else if(prefix== 'CAS') {
+return 'speechlh.htm';
+}
+else if(prefix== 'CAT') {
+return 'spaporpo.htm spaporsp.htm';
+}
+else if(prefix== 'CBH') {
+return 'psycholo.htm';
+}
+else if(prefix== 'CCE') {
+return 'civcseng.htm';
+}
+else if(prefix== 'CCJ') {
+return '';
+}
+else if(prefix== 'CDA') {
+return 'computer.htm';
+}
+else if(prefix== 'CEG') {
+return 'civcseng.htm';
+}
+else if(prefix== 'CEN') {
+return 'computer.htm';
+}
+else if(prefix== 'CES') {
+return 'civcseng.htm';
+}
+else if(prefix== 'CGN') {
+return 'civcseng.htm';
+}
+else if(prefix== 'CGS') {
+return 'computer.htm industri.htm';
+}
+else if(prefix== 'CHI') {
+return 'langchin.htm';
+}
+else if(prefix== 'CHM') {
+return 'chemical.htm chemistr.htm';
+}
+else if(prefix== 'CHT') {
+return 'langaaaa.htm langchin.htm';
+}
+else if(prefix== 'CHW') {
+return 'langchin.htm';
+}
+else if(prefix== 'CIS') {
+return 'computer.htm';
+}
+else if(prefix== 'CJC') {
+return '';
+}
+else if(prefix== 'CJE') {
+return '';
+}
+else if(prefix== 'CJJ') {
+return '';
+}
+else if(prefix== 'CJL') {
+return '';
+}
+else if(prefix== 'CLA') {
+return 'classicc.htm';
+}
+else if(prefix== 'CLP') {
+return 'clinicap.htm psycholo.htm';
+}
+else if(prefix== 'CLT') {
+return 'classicc.htm religion.htm';
+}
+else if(prefix== 'CNT') {
+return 'computer.htm';
+}
+else if(prefix== 'COM') {
+return 'writtenc.htm speechlh.htm masscomm.htm';
+}
+else if(prefix== 'COP') {
+return 'computer.htm industri.htm';
+}
+else if(prefix== 'COT') {
+return 'chemical.htm computer.htm';
+}
+else if(prefix== 'CPO') {
+return 'politica.htm';
+}
+else if(prefix== 'CRW') {
+return 'englishs.htm';
+}
+else if(prefix== 'CTS') {
+return 'computer.htm';
+}
+else if(prefix== 'CWR') {
+return 'agribioe.htm civcseng.htm ';
+}
+else if(prefix== 'CZE') {
+return 'langczec.htm';
+}
+else if(prefix== 'CZT') {
+return 'langczec.htm';
+}
+else if(prefix== 'DAA') {
+return 'tourismr.htm theadanc.htm';
+}
+else if(prefix== 'DAE') {
+return 'theadanc.htm';
+}
+else if(prefix== 'DAN') {
+return 'theadanc.htm';
+}
+else if(prefix== 'DCP') {
+return 'desconpl.htm urbanreg.htm';
+}
+else if(prefix== 'DEN') {
+return '';
+}
+else if(prefix== 'DEP') {
+return 'clinicap.htm psycholo.htm';
+}
+else if(prefix== 'DIE') {
+return '';
+}
+else if(prefix== 'DIG') {
+return 'arthisto.htm digworld.htm finearts.htm musicapp.htm';
+}
+else if(prefix== 'DUT') {
+return 'langdutc.htm';
+}
+else if(prefix== 'EAB') {
+return 'psycholo.htm';
+}
+else if(prefix== 'EAP') {
+return '';
+}
+else if(prefix== 'EAS') {
+return '';
+}
+else if(prefix== 'EBD') {
+return 'educasep.htm';
+}
+else if(prefix== 'ECH') {
+return 'chemical.htm material.htm';
+}
+else if(prefix== 'ECO') {
+return 'economic.htm';
+}
+else if(prefix== 'ECP') {
+return 'economic.htm';
+}
+else if(prefix== 'ECS') {
+return 'economic.htm';
+}
+else if(prefix== 'EDA') {
+return '';
+}
+else if(prefix== 'EDE') {
+return 'educattl.htm';
+}
+else if(prefix== 'EDF') {
+return 'educasep.htm educattl.htm';
+}
+else if(prefix== 'EDG') {
+return 'educattl.htm';
+}
+else if(prefix== 'EDH') {
+return '';
+}
+else if(prefix== 'EDM') {
+return 'educattl.htm';
+}
+else if(prefix== 'EDP') {
+return '';
+}
+else if(prefix== 'EDS') {
+return '';
+}
+else if(prefix== 'EEC') {
+return 'educasep.htm';
+}
+else if(prefix== 'EEE') {
+return 'electric.htm engingen.htm';
+}
+else if(prefix== 'EEL') {
+return 'electric.htm';
+}
+else if(prefix== 'EES') {
+return '';
+}
+else if(prefix== 'EEX') {
+return 'educasep.htm';
+}
+else if(prefix== 'EGI') {
+return 'educasep.htm';
+}
+else if(prefix== 'EGM') {
+return 'civcseng.htm ';
+}
+else if(prefix== 'EGN') {
+return 'biomedeg.htm computer.htm ';
+}
+else if(prefix== 'EIN') {
+return 'industri.htm';
+}
+else if(prefix== 'EMA') {
+return 'material.htm';
+}
+else if(prefix== 'EME') {
+return 'educattl.htm';
+}
+else if(prefix== 'EML') {
+return 'nuclearr.htm';
+}
+else if(prefix== 'EMS') {
+return 'medigene.htm';
+}
+else if(prefix== 'ENC') {
+return 'writtenc.htm englishs.htm writprog.htm';
+}
+else if(prefix== 'ENG') {
+return 'englishs.htm environm.htm writprog.htm';
+}
+else if(prefix== 'ENL') {
+return 'englishs.htm';
+}
+else if(prefix== 'ENT') {
+return 'finances.htm';
+}
+else if(prefix== 'ENU') {
+return 'biomedeg.htm mediradi.htm microbio.htm nuclearr.htm';
+}
+else if(prefix== 'ENV') {
+return 'civcseng.htm nuclearr.htm';
+}
+else if(prefix== 'ENY') {
+return 'entomolo.htm';
+}
+else if(prefix== 'EOC') {
+return 'civcseng.htm';
+}
+else if(prefix== 'EPH') {
+return 'educasep.htm';
+}
+else if(prefix== 'ESC') {
+return 'geoscien.htm';
+}
+else if(prefix== 'ESE') {
+return 'educattl.htm';
+}
+else if(prefix== 'ESI') {
+return 'engingen.htm industri.htm';
+}
+else if(prefix== 'EUH') {
+return 'historys.htm';
+}
+else if(prefix== 'EUS') {
+return '';
+}
+else if(prefix== 'EVR') {
+return 'envrhort.htm natresou.htm';
+}
+else if(prefix== 'EVS') {
+return 'natresou.htm';
+}
+else if(prefix== 'EXP') {
+return 'psycholo.htm';
+}
+else if(prefix== 'FAS') {
+return 'fishsfrc.htm forresco.htm';
+}
+else if(prefix== 'FES') {
+return '';
+}
+else if(prefix== 'FIL') {
+return 'journali.htm masscomm.htm';
+}
+else if(prefix== 'FIN') {
+return 'finances.htm';
+}
+else if(prefix== 'FLE') {
+return 'educattl.htm langaaaa.htm';
+}
+else if(prefix== 'FNR') {
+return 'forresco.htm wildlife.htm';
+}
+else if(prefix== 'FOL') {
+return 'spaporsp.htm langaaaa.htm langfren.htm';
+}
+else if(prefix== 'FOR') {
+return 'forresco.htm';
+}
+else if(prefix== 'FOS') {
+return '';
+}
+else if(prefix== 'FOT') {
+return 'latiname.htm';
+}
+else if(prefix== 'FOW') {
+return 'spaporpo.htm spaporsp.htm langfren.htm langhait.htm langital.htm';
+}
+else if(prefix== 'FRC') {
+return 'horticul.htm';
+}
+else if(prefix== 'FRE') {
+return 'langfren.htm';
+}
+else if(prefix== 'FRT') {
+return 'langfren.htm';
+}
+else if(prefix== 'FRW') {
+return 'langfren.htm';
+}
+else if(prefix== 'FYC') {
+return 'agriture.htm ';
+}
+else if(prefix== 'GEA') {
+return 'geograph.htm';
+}
+else if(prefix== 'GEB') {
+return 'business.htm finances.htm';
+}
+else if(prefix== 'GEO') {
+return 'geoscien.htm geograph.htm';
+}
+else if(prefix== 'GER') {
+return 'langaaaa.htm langdutc.htm langgerm.htm';
+}
+else if(prefix== 'GET') {
+return 'langgerm.htm';
+}
+else if(prefix== 'GEW') {
+return 'langgerm.htm';
+}
+else if(prefix== 'GEY') {
+return 'psycholo.htm ';
+}
+else if(prefix== 'GIS') {
+return 'geograph.htm';
+}
+else if(prefix== 'GLY') {
+return 'bibozozo.htm geoscien.htm geograph.htm';
+}
+else if(prefix== 'GMS') {
+return 'biostati.htm veterina.htm ';
+}
+else if(prefix== 'GMT') {
+return 'classicc.htm';
+}
+else if(prefix== 'GRA') {
+return 'arthisto.htm';
+}
+else if(prefix== 'GRE') {
+return 'classicg.htm';
+}
+else if(prefix== 'GRK') {
+return 'classicg.htm';
+}
+else if(prefix== 'GRW') {
+return 'classicg.htm';
+}
+else if(prefix== 'HAI') {
+return 'langhait.htm';
+}
+else if(prefix== 'HAT') {
+return 'langhait.htm';
+}
+else if(prefix== 'HBR') {
+return 'langhebr.htm';
+}
+else if(prefix== 'HBT') {
+return 'langhebr.htm';
+}
+else if(prefix== 'HFT') {
+return 'tourismr.htm';
+}
+else if(prefix== 'HIN') {
+return '';
+}
+else if(prefix== 'HIS') {
+return 'civcseng.htm historys.htm';
+}
+else if(prefix== 'HLP') {
+return 'applyphys.htm healthed.htm tourismr.htm';
+}
+else if(prefix== 'HMW') {
+return 'langhebr.htm';
+}
+else if(prefix== 'HNG') {
+return '';
+}
+else if(prefix== 'HOS') {
+return 'agriture.htm envrhort.htm horticul.htm';
+}
+else if(prefix== 'HPS') {
+return 'historys.htm philosop.htm';
+}
+else if(prefix== 'HSA') {
+return 'economic.htm healthpr.htm healthsa.htm';
+}
+else if(prefix== 'HSC') {
+return 'educattl.htm healthed.htm healthpr.htm mediphas.htm tourismr.htm';
+}
+else if(prefix== 'HUM') {
+return 'afrstudi.htm arthisto.htm finearts.htm innovati.htm interdis.htm langaaaa.htm musicapp.htm';
+}
+else if(prefix== 'HUN') {
+return '';
+}
+else if(prefix== 'ICM') {
+return '';
+}
+else if(prefix== 'IDC') {
+return 'arthisto.htm finearts.htm';
+}
+else if(prefix== 'IDH') {
+return 'chemistr.htm speechlh.htm historys.htm physicss.htm ';
+}
+else if(prefix== 'IDS') {
+return 'firstyrf.htm ';
+}
+else if(prefix== 'IND') {
+return 'interior.htm';
+}
+else if(prefix== 'INP') {
+return '';
+}
+else if(prefix== 'INR') {
+return 'politica.htm';
+}
+else if(prefix== 'INS') {
+return 'interdis.htm';
+}
+else if(prefix== 'IPM') {
+return 'agronomy.htm ';
+}
+else if(prefix== 'ISC') {
+return 'bibozobi.htm chemistr.htm ';
+}
+else if(prefix== 'ISM') {
+return '';
+}
+else if(prefix== 'ISS') {
+return '';
+}
+else if(prefix== 'ITA') {
+return 'langital.htm';
+}
+else if(prefix== 'ITT') {
+return 'langital.htm';
+}
+else if(prefix== 'ITW') {
+return 'langital.htm';
+}
+else if(prefix== 'JOU') {
+return 'journali.htm masscomm.htm';
+}
+else if(prefix== 'JPN') {
+return 'langjapa.htm';
+}
+else if(prefix== 'JPT') {
+return 'langjapa.htm';
+}
+else if(prefix== 'JPW') {
+return 'langaaaa.htm langjapa.htm';
+}
+else if(prefix== 'JST') {
+return 'jewishst.htm';
+}
+else if(prefix== 'KOR') {
+return '';
+}
+else if(prefix== 'LAA') {
+return 'landscap.htm';
+}
+else if(prefix== 'LAE') {
+return 'educattl.htm englishs.htm';
+}
+else if(prefix== 'LAH') {
+return 'historys.htm';
+}
+else if(prefix== 'LAS') {
+return 'latiname.htm';
+}
+else if(prefix== 'LAT') {
+return 'classicl.htm';
+}
+else if(prefix== 'LAW') {
+return 'environm.htm lawschoo.htm';
+}
+else if(prefix== 'LDE') {
+return 'envrhort.htm';
+}
+else if(prefix== 'LEI') {
+return 'tourismr.htm';
+}
+else if(prefix== 'LGL') {
+return 'afrstudi.htm ';
+}
+else if(prefix== 'LIN') {
+return 'speechlh.htm educasep.htm englishs.htm ';
+}
+else if(prefix== 'LIS') {
+return 'writtenc.htm';
+}
+else if(prefix== 'LIT') {
+return 'englishs.htm jewishst.htm religion.htm';
+}
+else if(prefix== 'LNW') {
+return 'classicl.htm';
+}
+else if(prefix== 'MAA') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MAC') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MAD') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MAE') {
+return 'educattl.htm mathemat.htm';
+}
+else if(prefix== 'MAN') {
+return 'finances.htm manageme.htm';
+}
+else if(prefix== 'MAP') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MAR') {
+return 'marketin.htm';
+}
+else if(prefix== 'MAS') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MAT') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MCB') {
+return 'microbio.htm phardyna.htm';
+}
+else if(prefix== 'MDE') {
+return 'medipath.htm';
+}
+else if(prefix== 'MDT') {
+return '';
+}
+else if(prefix== 'MDU') {
+return 'medigene.htm medipsyc.htm ';
+}
+else if(prefix== 'MED') {
+return 'mediaaaa.htm';
+}
+else if(prefix== 'MEL') {
+return '';
+}
+else if(prefix== 'MEM') {
+return 'historys.htm medievals.htm langgerm.htm';
+}
+else if(prefix== 'MET') {
+return 'geograph.htm physicss.htm';
+}
+else if(prefix== 'MGF') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MHF') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MHS') {
+return '';
+}
+else if(prefix== 'MMC') {
+return 'journali.htm masscomm.htm';
+}
+else if(prefix== 'MSL') {
+return 'miliarmy.htm';
+}
+else if(prefix== 'MTG') {
+return 'mathemat.htm';
+}
+else if(prefix== 'MUC') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUE') {
+return 'educattl.htm musicapp.htm';
+}
+else if(prefix== 'MUG') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUH') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUL') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUN') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUO') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUR') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUS') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MUT') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MVB') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MVK') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MVO') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MVP') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MVS') {
+return 'musicapp.htm';
+}
+else if(prefix== 'MVV') {
+return 'musicapp.htm theadanc.htm';
+}
+else if(prefix== 'MVW') {
+return 'musicapp.htm';
+}
+else if(prefix== 'NEM') {
+return 'entomolo.htm';
+}
+else if(prefix== 'NGR') {
+return '';
+}
+else if(prefix== 'NSC') {
+return 'milinavy.htm';
+}
+else if(prefix== 'NUR') {
+return '';
+}
+else if(prefix== 'OCE') {
+return 'civcseng.htm geoscien.htm';
+}
+else if(prefix== 'OCP') {
+return 'civcseng.htm';
+}
+else if(prefix== 'ORH') {
+return 'envrhort.htm';
+}
+else if(prefix== 'ORI') {
+return 'theadanc.htm';
+}
+else if(prefix== 'OTH') {
+return 'healthpr.htm occupati.htm';
+}
+else if(prefix== 'PAD') {
+return 'politica.htm';
+}
+else if(prefix== 'PAS') {
+return 'mediphas.htm';
+}
+else if(prefix== 'PCB') {
+return 'agronomy.htm bibozobi.htm bibozobo.htm bibozozo.htm forresco.htm geoscien.htm horticul.htm microbio.htm natresou.htm';
+}
+else if(prefix== 'PCO') {
+return 'psycholo.htm';
+}
+else if(prefix== 'PCY') {
+return 'arthisto.htm';
+}
+else if(prefix== 'PEL') {
+return 'tourismr.htm';
+}
+else if(prefix== 'PEM') {
+return 'tourismr.htm';
+}
+else if(prefix== 'PEN') {
+return '';
+}
+else if(prefix== 'PEO') {
+return 'tourismr.htm';
+}
+else if(prefix== 'PEQ') {
+return 'applyphys.htm healthed.htm tourismr.htm';
+}
+else if(prefix== 'PET') {
+return 'applyphys.htm educattl.htm healthed.htm tourismr.htm';
+}
+else if(prefix== 'PGY') {
+return 'arthisto.htm journali.htm';
+}
+else if(prefix== 'PHA') {
+return 'mediphar.htm phardyna.htm';
+}
+else if(prefix== 'PHC') {
+return 'biostati.htm clinicap.htm epidemio.htm healthed.htm healthpr.htm healthsa.htm publeat.htm';
+}
+else if(prefix== 'PHH') {
+return 'philosop.htm';
+}
+else if(prefix== 'PHI') {
+return 'philosop.htm religion.htm';
+}
+else if(prefix== 'PHM') {
+return 'philosop.htm';
+}
+else if(prefix== 'PHP') {
+return 'philosop.htm';
+}
+else if(prefix== 'PHT') {
+return '';
+}
+else if(prefix== 'PHY') {
+return 'physicss.htm';
+}
+else if(prefix== 'PHZ') {
+return 'physicss.htm';
+}
+else if(prefix== 'PKG') {
+return '';
+}
+else if(prefix== 'PLP') {
+return 'bibozobo.htm plantpat.htm';
+}
+else if(prefix== 'PLS') {
+return 'agriture.htm agronomy.htm envrhort.htm plantpat.htm';
+}
+else if(prefix== 'PLT') {
+return 'langpoli.htm';
+}
+else if(prefix== 'PLW') {
+return 'langpoli.htm';
+}
+else if(prefix== 'PMA') {
+return 'entomolo.htm ';
+}
+else if(prefix== 'POL') {
+return 'langpoli.htm';
+}
+else if(prefix== 'POR') {
+return 'spaporpo.htm';
+}
+else if(prefix== 'POS') {
+return 'latiname.htm politica.htm religion.htm';
+}
+else if(prefix== 'POT') {
+return 'politica.htm';
+}
+else if(prefix== 'POW') {
+return 'spaporpo.htm';
+}
+else if(prefix== 'PPE') {
+return 'psycholo.htm';
+}
+else if(prefix== 'PRT') {
+return 'spaporpo.htm';
+}
+else if(prefix== 'PSB') {
+return 'psycholo.htm';
+}
+else if(prefix== 'PSY') {
+return 'clinicap.htm psycholo.htm';
+}
+else if(prefix== 'PUP') {
+return 'politica.htm';
+}
+else if(prefix== 'PUR') {
+return 'masscomm.htm publicre.htm';
+}
+else if(prefix== 'QMB') {
+return '';
+}
+else if(prefix== 'RCS') {
+return 'healthpr.htm ';
+}
+else if(prefix== 'REA') {
+return '';
+}
+else if(prefix== 'RED') {
+return 'educasep.htm educattl.htm englishs.htm writprog.htm';
+}
+else if(prefix== 'REE') {
+return 'finances.htm';
+}
+else if(prefix== 'REL') {
+return 'jewishst.htm philosop.htm religion.htm';
+}
+else if(prefix== 'RLG') {
+return 'religion.htm';
+}
+else if(prefix== 'RMI') {
+return 'finances.htm';
+}
+else if(prefix== 'RSD') {
+return 'healthpr.htm occupati.htm rehbsci2.htm';
+}
+else if(prefix== 'RTV') {
+return 'journali.htm masscomm.htm telecomm.htm';
+}
+else if(prefix== 'RUS') {
+return 'langruss.htm';
+}
+else if(prefix== 'RUT') {
+return 'langruss.htm';
+}
+else if(prefix== 'RUW') {
+return 'langruss.htm';
+}
+else if(prefix== 'SCA') {
+return '';
+}
+else if(prefix== 'SCE') {
+return 'educattl.htm';
+}
+else if(prefix== 'SCT') {
+return '';
+}
+else if(prefix== 'SDS') {
+return '';
+}
+else if(prefix== 'SLS') {
+return 'educattl.htm firstyrf.htm interdis.htm';
+}
+else if(prefix== 'SMT') {
+return 'educattl.htm';
+}
+else if(prefix== 'SOP') {
+return 'psycholo.htm';
+}
+else if(prefix== 'SPA') {
+return 'speechlh.htm rehbsci2.htm';
+}
+else if(prefix== 'SPC') {
+return 'englishs.htm writtenc.htm';
+}
+else if(prefix== 'SPM') {
+return 'applyphys.htm tourismr.htm';
+}
+else if(prefix== 'SPN') {
+return 'spaporsp.htm';
+}
+else if(prefix== 'SPS') {
+return 'educasep.htm';
+}
+else if(prefix== 'SPT') {
+return 'spaporsp.htm';
+}
+else if(prefix== 'SPW') {
+return 'spaporsp.htm';
+}
+else if(prefix== 'SRK') {
+return 'religion.htm';
+}
+else if(prefix== 'SSA') {
+return 'afrstudi.htm langyoru.htm';
+}
+else if(prefix== 'SSE') {
+return 'educattl.htm';
+}
+else if(prefix== 'SST') {
+return 'afrstudi.htm ';
+}
+else if(prefix== 'SSW') {
+return 'langswah.htm';
+}
+else if(prefix== 'STA') {
+return 'agriture.htm publeat.htm statisti.htm ';
+}
+else if(prefix== 'SUR') {
+return 'geomatic.htm';
+}
+else if(prefix== 'SWA') {
+return 'afrstudi.htm langswah.htm';
+}
+else if(prefix== 'SWS') {
+return '';
+}
+else if(prefix== 'SWW') {
+return 'langswah.htm';
+}
+else if(prefix== 'SYA') {
+return 'agriture.htm ';
+}
+else if(prefix== 'SYD') {
+return '';
+}
+else if(prefix== 'SYG') {
+return 'agriture.htm ';
+}
+else if(prefix== 'SYO') {
+return 'religion.htm ';
+}
+else if(prefix== 'SYP') {
+return '';
+}
+else if(prefix== 'TAX') {
+return 'accounts.htm';
+}
+else if(prefix== 'THE') {
+return 'theadanc.htm';
+}
+else if(prefix== 'TPA') {
+return 'theadanc.htm';
+}
+else if(prefix== 'TPP') {
+return 'theadanc.htm';
+}
+else if(prefix== 'TSL') {
+return 'educattl.htm ';
+}
+else if(prefix== 'TTE') {
+return 'civcseng.htm';
+}
+else if(prefix== 'TUR') {
+return '';
+}
+else if(prefix== 'URP') {
+return 'urbanreg.htm';
+}
+else if(prefix== 'VEC') {
+return 'horticul.htm';
+}
+else if(prefix== 'VEM') {
+return '';
+}
+else if(prefix== 'VIC') {
+return 'masscomm.htm ';
+}
+else if(prefix== 'VME') {
+return 'animalsc.htm mediaaaa.htm publeat.htm veterina.htm';
+}
+else if(prefix== 'VTN') {
+return '';
+}
+else if(prefix== 'VTT') {
+return '';
+}
+else if(prefix== 'WIS') {
+return 'forresco.htm wildlife.htm';
+}
+else if(prefix== 'WOH') {
+return 'historys.htm';
+}
+else if(prefix== 'WOL') {
+return 'afrstudi.htm langaaaa.htm ';
+}
+else if(prefix== 'WST') {
+return 'womenstu.htm';
+}
+else if(prefix== 'XHO') {
+return 'afrstudi.htm langaaaa.htm ';
+}
+else if(prefix== 'YOR') {
+return 'afrstudi.htm langyoru.htm';
+}
+else if(prefix== 'YOT') {
+return 'langyoru.htm';
+}
+else if(prefix== 'YRW') {
+return 'langyoru.htm';
+}
+else if(prefix== 'ZOO') {
+return 'bibozozo.htm microbio.htm';
+}
