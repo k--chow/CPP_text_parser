@@ -1,0 +1,1267 @@
+<tr><td>ABE</td><td>Agricultural and Biological Engineering</td></tr>
+
+<tr><td>ABE</td><td>Chemical Engineering</td></tr>
+
+<tr><td>ABT</td><td>Languages, Literatures and Cultures - Arabic</td></tr>
+
+<tr><td>ACG</td><td>Accounting </td></tr>
+
+<tr><td>ADV</td><td>Advertising</td></tr>
+
+<tr><td>ADV</td><td>Mass Communication</td></tr>
+
+<tr><td>AEB</td><td>Agriculture</td></tr>
+
+<tr><td>AEB</td><td>Agricultural Operations Management</td></tr>
+
+<tr><td>AEB</td><td>Food and Resource Economics</td></tr>
+
+<tr><td>AEB</td><td>Mechanical/Aerospace Engineering</td></tr>
+
+<tr><td>AEC</td><td>Agricultural Education and Communication </td></tr>
+
+<tr><td>AEE</td><td>Agriculture</td></tr>
+
+<tr><td>AEE</td><td>Food and Resource Economics</td></tr>
+
+<tr><td>AFA</td><td>African-American Studies </td></tr>
+
+<tr><td>AFA</td><td>African Studies</td></tr>
+
+<tr><td>AFH</td><td>African Studies</td></tr>
+
+<tr><td>AFH</td><td>History </td></tr>
+
+<tr><td>AFR</td><td>Military Science - Air Force </td></tr>
+
+<tr><td>AFS</td><td>African Studies</td></tr>
+
+<tr><td>AFS</td><td>Anthropology </td></tr>
+
+<tr><td>AGG</td><td>Agricultural Education and Communication</td></tr>
+
+<tr><td>AGG</td><td>Agronomy</td></tr>
+
+<tr><td>AGR</td><td>Agronomy</td></tr>
+
+<tr><td>AHM</td><td>African Studies</td></tr>
+
+<tr><td>AHM</td><td>Languages Lit/Culture</td></tr>
+
+<tr><td>AHM</td><td>Languages, Literatures and Cultures - Amharic </td></tr>
+
+<tr><td>AKA</td><td>African Studies</td></tr>
+
+<tr><td>AKA</td><td>Languages, Literatures and Cultures - Akan </td></tr>
+
+<tr><td>AKA</td><td>Languages LIT/Culture</td></tr>
+
+<tr><td>ALS</td><td>Agricultural Education and Communication </td></tr>
+
+<tr><td>ALS</td><td>Agricultural Operations Management</td></tr>
+
+<tr><td>ALS</td><td>Agriculture</td></tr>
+
+<tr><td>ALS</td><td>Agronomy</td></tr>
+
+<tr><td>ALS</td><td>Animal Sciences</td></tr>
+
+<tr><td>ALS</td><td>Entomology and Nematology</td></tr>
+
+<tr><td>ALS</td><td>Environmental Horticulture </td></tr>
+
+<tr><td>ALS</td><td>Food and Resource Economics</td></tr>
+
+<tr><td>ALS</td><td>Horticultural Sciences</td></tr>
+
+<tr><td>ALS</td><td>Plant Pathology</td></tr>
+
+<tr><td>ALS</td><td>Soil and Water Science</td></tr>
+
+<tr><td>AMH</td><td>African Studies</td></tr>
+
+<tr><td>AMH</td><td>American Studies</td></tr>
+
+<tr><td>AMH</td><td>History </td></tr>
+
+<tr><td>AMH</td><td>Languages LIT/Culture</td></tr>
+
+<tr><td>AML</td><td>English </td></tr>
+
+<tr><td>ANG</td><td>Anthropology </td></tr>
+
+<tr><td>ANS</td><td>Animal Sciences</td></tr>
+
+<tr><td>ANT</td><td>Anthropology </td></tr>
+
+<tr><td>ANT</td><td>Religion</td></tr>
+
+<tr><td>AOM</td><td>Agricultural and Biological Engineering</td></tr>
+
+<tr><td>AOM</td><td>Agricultural Operations Management</td></tr>
+
+<tr><td>APK</td><td>Applied Physiology and Kinesiology</td></tr>
+
+<tr><td>APK</td><td>Health Education and Behavior</td></tr>
+
+<tr><td>APK</td><td>Tourism, Recreation and Sport Management </td></tr>
+
+<tr><td>ARA</td><td>African Studies</td></tr>
+
+<tr><td>ARA</td><td>Languages, Literatures and Cultures - Arabic</td></tr>
+
+<tr><td>ARC</td><td>Architecture </td></tr>
+
+<tr><td>ARC</td><td>Design, Construction and Planning </td></tr>
+
+<tr><td>ARE</td><td>Art and Art History </td></tr>
+
+<tr><td>ARE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>ARH</td><td>Art and Art History </td></tr>
+
+<tr><td>ARH</td><td>Interdisciplinary Studies</td></tr>
+
+<tr><td>ART</td><td>Art and Art History </td></tr>
+
+<tr><td>ART</td><td>Fine Arts </td></tr>
+
+<tr><td>ASH</td><td>History </td></tr>
+
+<tr><td>ASL</td><td>Speech, Language and Hearing Sciences</td></tr>
+
+<tr><td>ASN</td><td>Asian Studies</td></tr>
+
+<tr><td>ASN</td><td>Languages, Literatures and Cultures </td></tr>
+
+<tr><td>AST</td><td>Astronomy</td></tr>
+
+<tr><td>AST</td><td>Biology - Zoology</td></tr>
+
+<tr><td>AST</td><td>Physics</td></tr>
+
+<tr><td>ATE</td><td>Animal Sciences</td></tr>
+
+<tr><td>ATR</td><td>Applied Physiology and Kinesiology</td></tr>
+
+<tr><td>BCC</td><td>Medicine - All Departments </td></tr>
+
+<tr><td>BCH</td><td>Agriculture</td></tr>
+
+<tr><td>BCH</td><td>Biology - Botany</td></tr>
+
+<tr><td>BCH</td><td>Environmental Horticulture</td></tr>
+
+<tr><td>BCH</td><td>Food Science and Human Nutrition</td></tr>
+
+<tr><td>BCH</td><td>Medicine - Biochemistry</td></tr>
+
+<tr><td>BCN</td><td>Building Construction </td></tr>
+
+<tr><td>BME</td><td>Biomedical Engineering</td></tr>
+
+<tr><td>BME</td><td>Chemical Engineering</td></tr>
+
+<tr><td>BME</td><td>Electrical and Computer Engineering</td></tr>
+
+<tr><td>BME</td><td>Materials Science and Engineering </td></tr>
+
+<tr><td>BME</td><td>Mechanical and Aerospace Engineering</td></tr>
+
+<tr><td>BME</td><td>Medicine - Radiology</td></tr>
+
+<tr><td>BMS</td><td>Medicine - All Departments </td></tr>
+
+<tr><td>BOT</td><td>Biology - Botany</td></tr>
+
+<tr><td>BOT</td><td>Biology - Zoology</td></tr>
+
+<tr><td>BOT</td><td>Geological Sciences </td></tr>
+
+<tr><td>BSC</td><td>Biology - Biological Sciences</td></tr>
+
+<tr><td>BSC</td><td>Biology - Zoology</td></tr>
+
+<tr><td>BSC</td><td>Health Professions</td></tr>
+
+<tr><td>BSC</td><td>Medicine - Physiology and Functional Genomics </td></tr>
+
+<tr><td>BSC</td><td>Microbiology and Cell Science </td></tr>
+
+<tr><td>BUL</td><td>Management </td></tr>
+
+<tr><td>CAP</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>CAS</td><td>Speech, Language and Hearing Sciences</td></tr>
+
+<tr><td>CAT</td><td>Spanish and Portuguese - Portuguese</td></tr>
+
+<tr><td>CAT</td><td>Spanish and Portuguese - Spanish</td></tr>
+
+<tr><td>CBH</td><td>Psychology </td></tr>
+
+<tr><td>CCE</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>CCJ</td><td>Sociology, Criminology and Law - Criminology</td></tr>
+
+<tr><td>CDA</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>CEG</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>CEN</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>CES</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>CGN</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>CGS</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>CGS</td><td>Industrial and Systems Engineering</td></tr>
+
+<tr><td>CHI</td><td>Languages, Literatures and Cultures - Chinese </td></tr>
+
+<tr><td>CHM</td><td>Chemical Engineering</td></tr>
+
+<tr><td>CHM</td><td>Chemistry</td></tr>
+
+<tr><td>CHT</td><td>Languages, LIT/Culture </td></tr>
+
+<tr><td>CHT</td><td>Languages, Literatures and Cultures - Chinese </td></tr>
+
+<tr><td>CHW</td><td>Languages, Literatures and Cultures - Chinese </td></tr>
+
+<tr><td>CIS</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>CJC</td><td>Sociology, Criminology and Law - Criminology</td></tr>
+
+<tr><td>CJE</td><td>Sociology, Criminology and Law - Criminology</td></tr>
+
+<tr><td>CJJ</td><td>Sociology, Criminology and Law - Criminology</td></tr>
+
+<tr><td>CJL</td><td>Sociology, Criminology and Law - Criminology</td></tr>
+
+<tr><td>CLA</td><td>Classics</td></tr>
+
+<tr><td>CLP</td><td>Clinical and Health Psychology</td></tr>
+
+<tr><td>CLP</td><td>Psychology </td></tr>
+
+<tr><td>CLT</td><td>Classics</td></tr>
+
+<tr><td>CLT</td><td>Religion</td></tr>
+
+<tr><td>CNT</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>COM</td><td>Center for Written and Oral Communication</td></tr>
+
+<tr><td>COM</td><td>Speech, Language and Hearing Sciences</td></tr>
+
+<tr><td>COM</td><td>Mass Communication</td></tr>
+
+<tr><td>COP</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>COP</td><td>Industrial and Systems Engineering</td></tr>
+
+<tr><td>COT</td><td>Chemical Engineering</td></tr>
+
+<tr><td>COT</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>CPO</td><td>Political Science </td></tr>
+
+<tr><td>CTS</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>CRW</td><td>English </td></tr>
+
+<tr><td>CWR</td><td>Agricultural and Biological Engineering</td></tr>
+
+<tr><td>CWR</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>CWR</td><td>Environmental Engineering Sciences</td></tr>
+
+<tr><td>CWR</td><td>Soil and Water Sciences</td></tr>
+
+<tr><td>CZE</td><td>Languages, Literatures and Cultures - Czech</td></tr>
+
+<tr><td>CZT</td><td>Languages, Literatures and Cultures - Czech</td></tr>
+
+<tr><td>DAA</td><td>Tourism, Recreation and Sport Management</td></tr>
+
+<tr><td>DAA</td><td>Theatre and Dance </td></tr>
+
+<tr><td>DAE</td><td>Theatre and Dance </td></tr>
+
+<tr><td>DAN</td><td>Theatre and Dance </td></tr>
+
+<tr><td>DCP</td><td>Design, Construction and Planning </td></tr>
+
+<tr><td>DCP</td><td>Urban and Regional Planning </td></tr>
+
+<tr><td>DEN</td><td>Dentistry - All Departments</td></tr>
+
+<tr><td>DEP</td><td>Clinical and Health Psychology</td></tr>
+
+<tr><td>DEP</td><td>Psychology </td></tr>
+
+<tr><td>DIE</td><td>Food Science and Human Nutrition</td></tr>
+
+<tr><td>DIG</td><td>Art and Art History</td></tr>
+
+<tr><td>DIG</td><td>Digital Worlds Institute</td></tr>
+
+<tr><td>DIG</td><td>Fine Arts</td></tr>
+
+<tr><td>DIG</td><td>Music</td></tr>
+
+<tr><td>DUT</td><td>Languages, Literatures and Cultures - Dutch</td></tr>
+
+<tr><td>EAB</td><td>Psychology </td></tr>
+
+<tr><td>EAP</td><td>Linguistics</td></tr>
+
+<tr><td>EAS</td><td>Mechanical and Aerospace Engineering</td></tr>
+
+<tr><td>EBD</td><td>Education - Special Education, School Psychology and Early Childhood Studies</td></tr>
+
+<tr><td>ECH</td><td>Chemical Engineering</td></tr>
+
+<tr><td>ECH</td><td>Materials Science and Engineering </td></tr>
+
+<tr><td>ECO</td><td>Economics</td></tr>
+
+<tr><td>ECP</td><td>Economics</td></tr>
+
+<tr><td>ECS</td><td>Economics</td></tr>
+
+<tr><td>EDA</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>EDE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>EDF</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>EDF</td><td>Education - Special Education, School Psychology and Early Childhood Studies</td></tr>
+
+<tr><td>EDF</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>EDG</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>EDG</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>EDH</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>EDM</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>EDP</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>EDS</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>EEC</td><td>Education - Special Education, School Psychology and Early Childhood Studies</td></tr>
+
+<tr><td>EEE</td><td>Electrical and Computer Engineering</td></tr>
+
+<tr><td>EEE</td><td>Engineering - General</td></tr>
+
+<tr><td>EEL</td><td>Electrical and Computer Engineering </td></tr>
+
+<tr><td>EES</td><td>Environmental Engineering Sciences</td></tr>
+
+<tr><td>EEX</td><td>Education - Special Education, School Psychology and Early Childhood Studies</td></tr>
+
+<tr><td>EGI</td><td>Education - Special Education, School Psychology and Early Childhood Studies</td></tr>
+
+<tr><td>EGM</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>EGM</td><td>Mechanical and Aerospace Engineering</td></tr>
+
+<tr><td>EGN</td><td>Biomedical Engineering</td></tr>
+
+<tr><td>EGN</td><td>Computer and Information Science and Engineering</td></tr>
+
+<tr><td>EGN</td><td>Engineering - All Departments</td></tr>
+
+<tr><td>EIN</td><td>Industrial and Systems Engineering</td></tr>
+
+<tr><td>EMA</td><td>Materials Science and Engineering </td></tr>
+
+<tr><td>EME</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>EML</td><td>Mechanical and Aerospace Engineering</td></tr>
+
+<tr><td>EML</td><td>Nuclear and Radiological Engineering</td></tr>
+
+<tr><td>EMS</td><td>Medicine - General</td></tr>
+
+<tr><td>ENC</td><td>Center for Written and Oral Communication</td></tr>
+
+<tr><td>ENC</td><td>English </td></tr>
+
+<tr><td>ENC</td><td>Writing Program</td></tr>
+
+<tr><td>ENG</td><td>English </td></tr>
+
+<tr><td>ENG</td><td>Environmental Engineering Science</td></tr>
+
+<tr><td>ENG</td><td>Writing Program</td></tr>
+
+<tr><td>ENL</td><td>English </td></tr>
+
+<tr><td>ENT</td><td>Finance, Insurance and Real Estate</td></tr>
+
+<tr><td>ENU</td><td>Biomedical Engineering</td></tr>
+
+<tr><td>ENU</td><td>Materials Science & Engineering</td></tr>
+
+<tr><td>ENU</td><td>Medicine - Radiology</td></tr>
+
+<tr><td>ENU</td><td>Microbiology and Cell Science</td></tr>
+
+<tr><td>ENU</td><td>Nuclear and Radiological Engineering</td></tr>
+
+<tr><td>ENV</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>ENV</td><td>Environmental Engineering Sciences</td></tr>
+
+<tr><td>ENV</td><td>Nuclear and Radiological Engineering</td></tr>
+
+<tr><td>ENY</td><td>Entomology and Nematology</td></tr>
+
+<tr><td>EOC</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>EPH</td><td>Education - Special Education, School Psychology and Early Childhood Studies</td></tr>
+
+<tr><td>ESC</td><td>Geological Sciences </td></tr>
+
+<tr><td>ESE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>ESI</td><td>Engineering - General</td></tr>
+
+<tr><td>ESI</td><td>Industrial and Systems Engineering</td></tr>
+
+<tr><td>EUH</td><td>History </td></tr>
+
+<tr><td>EUS</td><td>Center for European Studies</td></tr>
+
+<tr><td>EVR</td><td>Environmental Horticulture </td></tr>
+
+<tr><td>EVR</td><td>Natural Resources and Environment </td></tr>
+
+<tr><td>EVS</td><td>Natural Resources and Environment </td></tr>
+
+<tr><td>EXP</td><td>Psychology </td></tr>
+
+<tr><td>FAS</td><td>Fisheries and Aquatic Sciences</td></tr>
+
+<tr><td>FAS</td><td>Forest Resources and Conservation</td></tr>
+
+<tr><td>FES</td><td>Building Construction </td></tr>
+
+<tr><td>FIL</td><td>Journalism </td></tr>
+
+<tr><td>FIL</td><td>Mass Communication</td></tr>
+
+<tr><td>FIN</td><td>Finance, Insurance and Real Estate</td></tr>
+
+<tr><td>FLE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>FLE</td><td>Languages LIT/Culture </td></tr>
+
+<tr><td>FNR</td><td>Forest Resources and Conservation </td></tr>
+
+<tr><td>FNR</td><td>Wildlife Ecology and Conservation </td></tr>
+
+<tr><td>FOL</td><td>Spanish and Portuguese - Spanish</td></tr>
+
+<tr><td>FOL</td><td>Languages LIT/Culture </td></tr>
+
+<tr><td>FOL</td><td>Languages, Literatures and Cultures - French</td></tr>
+
+<tr><td>FOR</td><td>Forest Resources and Conservation </td></tr>
+
+<tr><td>FOS</td><td>Food Science and Human Nutrition</td></tr>
+
+<tr><td>FOT</td><td>Latin American Studies</td></tr>
+
+<tr><td>FOW</td><td>Spanish and Portuguese - Portuguese</td></tr>
+
+<tr><td>FOW</td><td>Spanish and Portuguese - Spanish</td></tr>
+
+<tr><td>FOW</td><td>Languages, Literatures and Cultures - French</td></tr>
+
+<tr><td>FOW</td><td>Languages, Literatures and Cultures - Haitian/Creole </td></tr>
+
+<tr><td>FOW</td><td>Languages, Literatures and Cultures - Italian </td></tr>
+
+<tr><td>FRC</td><td>Horticultural Sciences</td></tr>
+
+<tr><td>FRE</td><td>Languages, Literatures and Cultures - French</td></tr>
+
+<tr><td>FRT</td><td>Languages, Literatures and Cultures - French</td></tr>
+
+<tr><td>FRW</td><td>Languages, Literatures and Cultures - French</td></tr>
+
+<tr><td>FYC</td><td>Agriculture</td></tr>
+
+<tr><td>FYC</td><td>Family, Youth and Community Sciences</td></tr>
+
+<tr><td>GEA</td><td>Geography</td></tr>
+
+<tr><td>GEB</td><td>Business Administration - General </td></tr>
+
+<tr><td>GEB</td><td>Finance, Insurance and Real Estate</td></tr>
+
+<tr><td>GEO</td><td>Geological Sciences</td></tr>
+
+<tr><td>GEO</td><td>Geography</td></tr>
+
+<tr><td>GER</td><td>Languages LIT/Culture </td></tr>
+
+<tr><td>GER</td><td>Languages, Literatures and Cultures - Dutch</td></tr>
+
+<tr><td>GER</td><td>Languages, Literatures and Cultures - German</td></tr>
+
+<tr><td>GET</td><td>Languages, Literatures and Cultures - German</td></tr>
+
+<tr><td>GEW</td><td>Languages, Literatures and Cultures - German</td></tr>
+
+<tr><td>GEY</td><td>Beharvioral Science & Community Health</td></tr>
+
+<tr><td>GEY</td><td>Gerontology</td></tr>
+
+<tr><td>GEY</td><td>Psychology</td></tr>
+
+<tr><td>GEY</td><td>Rehabilitation Counseling</td></tr>
+
+<tr><td>GIS</td><td>Geography</td></tr>
+
+<tr><td>GLY</td><td>Biology - Zoology</td></tr>
+
+<tr><td>GLY</td><td>Geological Sciences </td></tr>
+
+<tr><td>GLY</td><td>Geography</td></tr>
+
+<tr><td>GMS</td><td>Biostatistics</td></tr>
+
+<tr><td>GMS</td><td>Epidemiology Health Policy Research </td></tr>
+
+<tr><td>GMS</td><td>Medicine - All Departments </td></tr>
+
+<tr><td>GMS</td><td>Veterinary Medical Sciences</td></tr>
+
+<tr><td>GMS</td><td>Veterinary Medicine - Physiological Science</td></tr>
+
+<tr><td>GMT</td><td>Classics</td></tr>
+
+<tr><td>GRA</td><td>Art and Art History </td></tr>
+
+<tr><td>GRE</td><td>Classics - Greek</td></tr>
+
+<tr><td>GRK</td><td>Classics - Greek</td></tr>
+
+<tr><td>GRW</td><td>Classics - Greek</td></tr>
+
+<tr><td>HAI</td><td>Languages, Literatures and Cultures - Haitian Creole </td></tr>
+
+<tr><td>HAT</td><td>Languages, Literatures and Cultures - Haitian Creole </td></tr>
+
+<tr><td>HBR</td><td>Languages, Literatures and Cultures - Hebrew</td></tr>
+
+<tr><td>HBT</td><td>Languages, Literatures and Cultures - Hebrew</td></tr>
+
+<tr><td>HFT</td><td>Tourism, Recreation and Sport Management</td></tr>
+
+<tr><td>HIN</td><td>Languages, Literatures and Cultures - Hindi</td></tr>
+
+<tr><td>HIS</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>HIS</td><td>History </td></tr>
+
+<tr><td>HLP</td><td>Applied Physiology and Kinesiology</td></tr>
+
+<tr><td>HLP</td><td>Health Education and Behavior </td></tr>
+
+<tr><td>HLP</td><td>Tourism, Recreation and Sport Management </td></tr>
+
+<tr><td>HMW</td><td>Languages, Literatures and Cultures - Hebrew</td></tr>
+
+<tr><td>HNG</td><td>Center for European Studies</td></tr>
+
+<tr><td>HOS</td><td>Agriculture</td></tr>
+
+<tr><td>HOS</td><td>Environmental Horticulture </td></tr>
+
+<tr><td>HOS</td><td>Horticultural Sciences</td></tr>
+
+<tr><td>HPS</td><td>History</td></tr>
+
+<tr><td>HPS</td><td>Philosophy</td></tr>
+
+<tr><td>HSA</td><td>Economics</td></tr>
+
+<tr><td>HSA</td><td>Health Professions</td></tr>
+
+<tr><td>HSA</td><td>Health Services Administration</td></tr>
+
+<tr><td>HSC</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>HSC</td><td>Health Education and Behavior</td></tr>
+
+<tr><td>HSC</td><td>Health Professions</td></tr>
+
+<tr><td>HSC</td><td>Medicine - Physician Assistant</td></tr>
+
+<tr><td>HSC</td><td>Physical Therapy</td></tr>
+
+<tr><td>HSC</td><td>Tourism, Recreation and Sport Management</td></tr>
+
+<tr><td>HUM</td><td>African Studies</td></tr>
+
+<tr><td>HUM</td><td>Art and Art History </td></tr>
+
+<tr><td>HUM</td><td>Fine Arts</td></tr>
+
+<tr><td>HUM</td><td>Innovation Academy</td></tr>
+
+<tr><td>HUM</td><td>Interdisciplinary Studies</td></tr>
+
+<tr><td>HUM</td><td>Languages, Literature and Cultures </td></tr>
+
+<tr><td>HUM</td><td>Languages Lit/Culture</td></tr>
+
+<tr><td>HUM</td><td>Music </td></tr>
+
+<tr><td>HUN</td><td>Food Science and Human Nutrition</td></tr>
+
+<tr><td>ICM</td><td>Building Construction </td></tr>
+
+<tr><td>IDC</td><td>Art and Art History</td></tr>
+
+<tr><td>IDC</td><td>Fine Arts</td></tr>
+
+<tr><td>IDH</td><td>Chemistry</td></tr>
+
+<tr><td>IDH</td><td>Speech, Language and Hearing Sciences</td></tr>
+
+<tr><td>IDH</td><td>Dentistry - General </td></tr>
+
+<tr><td>IDH</td><td>History </td></tr>
+
+<tr><td>IDH</td><td>Physics</td></tr>
+
+<tr><td>IDH</td><td>Sociology, Criminology and Law - Criminology</td></tr>
+
+<tr><td>IDS</td><td>Career Development Program </td></tr>
+
+<tr><td>IDS</td><td>First Year Florida</td></tr>
+
+<tr><td>IDS</td><td>Languages, Literatures and Cultures </td></tr>
+
+<tr><td>IDS</td><td>Liberal Arts and Sciences - Interdisciplinary Studies</td></tr>
+
+<tr><td>IND</td><td>Interior Design</td></tr>
+
+<tr><td>INP</td><td>Correspondence Study</td></tr>
+
+<tr><td>INR</td><td>Political Science </td></tr>
+
+<tr><td>INS</td><td>Interdisciplinary Studies</td></tr>
+
+<tr><td>IPM</td><td>Agronomy </td></tr>
+
+<tr><td>IPM</td><td>Pest Management - Plant Protection </td></tr>
+
+<tr><td>ISC</td><td>Biology - Biological Sciences</td></tr>
+
+<tr><td>ISC</td><td>Chemistry</td></tr>
+
+<tr><td>ISC</td><td>Physics - Interdisciplinary Sciences</td></tr>
+
+<tr><td>ISM</td><td>Information Systems and Operations Management </td></tr>
+
+<tr><td>ISS</td><td>Liberal Arts and Sciences - Interdisciplinary Studies</td></tr>
+
+<tr><td>ITA</td><td>Languages, Literatures and Cultures - Italian </td></tr>
+
+<tr><td>ITT</td><td>Languages, Literatures and Cultures - Italian </td></tr>
+
+<tr><td>ITW</td><td>Languages, Literatures and Cultures - Italian </td></tr>
+
+<tr><td>JOU</td><td>Journalism </td></tr>
+
+<tr><td>JOU</td><td>Mass Communication</td></tr>
+
+<tr><td>JPN</td><td>Languages, Literatures and Cultures - Japanese</td></tr>
+
+<tr><td>JPT</td><td>Languages, Literatures and Cultures - Japanese</td></tr>
+
+<tr><td>JPW</td><td>Languages LIT/Culture</td></tr>
+
+<tr><td>JPW</td><td>Languages, Literatures and Cultures - Japanese</td></tr>
+
+<tr><td>JST</td><td>Jewish Studies </td></tr>
+
+<tr><td>KOR</td><td>Languages, Literatures and Cultures - Korean</td></tr>
+
+<tr><td>LAA</td><td>Landscape Architecture</td></tr>
+
+<tr><td>LAE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>LAE</td><td>English </td></tr>
+
+<tr><td>LAH</td><td>History </td></tr>
+
+<tr><td>LAS</td><td>Latin American Studies</td></tr>
+
+<tr><td>LAT</td><td>Classics - Latin</td></tr>
+
+<tr><td>LAW</td><td>Environmental Engineering Science </td></tr>
+
+<tr><td>LAW</td><td>Law </td></tr>
+
+<tr><td>LDE</td><td>Environmental Horticulture </td></tr>
+
+<tr><td>LEI</td><td>Tourism, Recreation and Sport Management </td></tr>
+
+<tr><td>LGL</td><td>African Studies</td></tr>
+
+<tr><td>LGL</td><td>Languages, Literatures and Cultures</td></tr>
+
+<tr><td>LIN</td><td>Speech, Language and Hearing Sciences</td></tr>
+
+<tr><td>LIN</td><td>Education - Special Education, School Psychology and Early Childhood Studies </td></tr>
+
+<tr><td>LIN</td><td>English </td></tr>
+
+<tr><td>LIN</td><td>Linguistics</td></tr>
+
+<tr><td>LIS</td><td>Written & Oral Communications</td></tr>
+
+<tr><td>LIT</td><td>English </td></tr>
+
+<tr><td>LIT</td><td>Jewish Studies </td></tr>
+
+<tr><td>LIT</td><td>Religion</td></tr>
+
+<tr><td>LNW</td><td>Classics - Latin</td></tr>
+
+<tr><td>MAA</td><td>Mathematics</td></tr>
+
+<tr><td>MAC</td><td>Mathematics</td></tr>
+
+<tr><td>MAD</td><td>Mathematics</td></tr>
+
+<tr><td>MAE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>MAE</td><td>Mathematics</td></tr>
+
+<tr><td>MAN</td><td>Finance, Insurance and Real Estate </td></tr>
+
+<tr><td>MAN</td><td>Information Systems and Operations Management </td></tr>
+
+<tr><td>MAN</td><td>Management </td></tr>
+
+<tr><td>MAP</td><td>Mathematics</td></tr>
+
+<tr><td>MAR</td><td>Marketing</td></tr>
+
+<tr><td>MAS</td><td>Mathematics</td></tr>
+
+<tr><td>MAT</td><td>Mathematics</td></tr>
+
+<tr><td>MCB</td><td>Microbiology and Cell Science</td></tr>
+
+<tr><td>MCB</td><td>Pharmacy - Pharmacodynamics</td></tr>
+
+<tr><td>MDE</td><td>Medicine - Pathology, Immunology & Lab Medicine</td></tr>
+
+<tr><td>MDT</td><td>Medicine - All Departments</td></tr>
+
+<tr><td>MDU</td><td>Medicine - General</td></tr>
+
+<tr><td>MDU</td><td>Medicine - Pathology, Immunology, & Lab Medicine</td></tr>
+
+<tr><td>MDU</td><td>Medicine - Psychiatry</td></tr>
+
+<tr><td>MDU</td><td>Health Outcomes & Policy</td></tr>
+
+<tr><td>MED</td><td>Medicine</td></tr>
+
+<tr><td>MEL</td><td>Epidemiology Health Policy Research </td></tr>
+
+<tr><td>MEL</td><td>Medicine - All Departments </td></tr>
+
+<tr><td>MEM</td><td>History </td></tr>
+
+<tr><td>MEM</td><td>Medieval and Early Modern Studies </td></tr>
+
+<tr><td>MEM</td><td>Languages, Literatures and Cultures - German</td></tr>
+
+<tr><td>MET</td><td>Atmospheric Sciences</td></tr>
+
+<tr><td>MET</td><td>Geography</td></tr>
+
+<tr><td>MET</td><td>Physics </td></tr>
+
+<tr><td>MGF</td><td>Mathematics</td></tr>
+
+<tr><td>MHF</td><td>Mathematics</td></tr>
+
+<tr><td>MHS</td><td>Behavioral Science & Community Health</td></tr>
+
+<tr><td>MHS</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>MHS</td><td>Rehabilitation Counseling</td></tr>
+
+<tr><td>MMC</td><td>Journalism </td></tr>
+
+<tr><td>MMC</td><td>Mass Communication</td></tr>
+
+<tr><td>MSL</td><td>Military Science - Army</td></tr>
+
+<tr><td>MTG</td><td>Mathematics</td></tr>
+
+<tr><td>MUC</td><td>Music </td></tr>
+
+<tr><td>MUE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>MUE</td><td>Music </td></tr>
+
+<tr><td>MUG</td><td>Music </td></tr>
+
+<tr><td>MUH</td><td>Music </td></tr>
+
+<tr><td>MUL</td><td>Music </td></tr>
+
+<tr><td>MUN</td><td>Music </td></tr>
+
+<tr><td>MUO</td><td>Music </td></tr>
+
+<tr><td>MUR</td><td>Music </td></tr>
+
+<tr><td>MUS</td><td>Music </td></tr>
+
+<tr><td>MUT</td><td>Music </td></tr>
+
+<tr><td>MVB</td><td>Music </td></tr>
+
+<tr><td>MVK</td><td>Music </td></tr>
+
+<tr><td>MVO</td><td>Music </td></tr>
+
+<tr><td>MVP</td><td>Music </td></tr>
+
+<tr><td>MVS</td><td>Music </td></tr>
+
+<tr><td>MVV</td><td>Music </td></tr>
+
+<tr><td>MVV</td><td>Theatre and Dance </td></tr>
+
+<tr><td>MVW</td><td>Music </td></tr>
+
+<tr><td>NEM</td><td>Entomology and Nematology</td></tr>
+
+<tr><td>NGR</td><td>Nursing - All Departments</td></tr>
+
+<tr><td>NSC</td><td>Military Science - Navy</td></tr>
+
+<tr><td>NUR</td><td>Nursing - All Departments</td></tr>
+
+<tr><td>OCE</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>OCE</td><td>Geological Sciences </td></tr>
+
+<tr><td>OCP</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>ORH</td><td>Environmental Horticulture </td></tr>
+
+<tr><td>ORI</td><td>Theatre and Dance </td></tr>
+
+<tr><td>OTH</td><td>Health Professions</td></tr>
+
+<tr><td>OTH</td><td>Occupational Therapy</td></tr>
+
+<tr><td>PAD</td><td>Political Science </td></tr>
+
+<tr><td>PAS</td><td>Medicine - Physician Assistant</td></tr>
+
+<tr><td>PCB</td><td>Agronomy</td></tr>
+
+<tr><td>PCB</td><td>Biology - Biological Sciences</td></tr>
+
+<tr><td>PCB</td><td>Biology - Botany</td></tr>
+
+<tr><td>PCB</td><td>Biology - Zoology</td></tr>
+
+<tr><td>PCB</td><td>Forest Resources and Conservation </td></tr>
+
+<tr><td>PCB</td><td>Geological Sciences </td></tr>
+
+<tr><td>PCB</td><td>Horticultural Sciences</td></tr>
+
+<tr><td>PCB</td><td>Microbiology and Cell Science</td></tr>
+
+<tr><td>PCB</td><td>Natural Resources and Environment </td></tr>
+
+<tr><td>PCO</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>PCO</td><td>Psychology </td></tr>
+
+<tr><td>PCY</td><td>Art and Art History</td></tr>
+
+<tr><td>PEL</td><td>Tourism, Recreation and Sport Management</td></tr>
+
+<tr><td>PEM</td><td>Tourism, Recreation and Sport Management</td></tr>
+
+<tr><td>PEN</td><td>Fisheries and Aquatic Science</td></tr>
+
+<tr><td>PEN</td><td>Tourism Recreation Sports Management</td></tr>
+
+<tr><td>PEO</td><td>Tourism, Recreation and Sport Management</td></tr>
+
+<tr><td>PEQ</td><td>Applied Physiology and Kinesiology</td></tr>
+
+<tr><td>PEQ</td><td>Health Education and Behavior</td></tr>
+
+<tr><td>PEQ</td><td>Tourism, Recreation and Sport Management</td></tr>
+
+<tr><td>PET</td><td>Applied Physiology and Kinesiology</td></tr>
+
+<tr><td>PET</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>PET</td><td>Health Education and Behavior</td></tr>
+
+<tr><td>PET</td><td>Sport and Fitness </td></tr>
+
+<tr><td>PET</td><td>Tourism, Recreation and Sport Management </td></tr>
+
+<tr><td>PGY</td><td>Art and Art History </td></tr>
+
+<tr><td>PGY</td><td>Journalism </td></tr>
+
+<tr><td>PHA</td><td>Medicine - Pharmacology</td></tr>
+
+<tr><td>PHA</td><td>Pharmacy - Pharmaceuticals </td></tr>
+
+<tr><td>PHA</td><td>Pharmacy - Pharmacodynamics</td></tr>
+
+<tr><td>PHC</td><td>Behavioral Science & Community Health</td></tr>
+
+<tr><td>PHC</td><td>Biostatistics</td></tr>
+
+<tr><td>PHC</td><td>Clinical and Health Psychology</td></tr>
+
+<tr><td>PHC</td><td>Epidemiology</td></tr>
+
+<tr><td>PHC</td><td>Health Education and Behavior</td></tr>
+
+<tr><td>PHC</td><td>Health Professions</td></tr>
+
+<tr><td>PHC</td><td>Health Services Administration</td></tr>
+
+<tr><td>PHC</td><td>Public Health</td></tr>
+
+<tr><td>PHH</td><td>Philosophy </td></tr>
+
+<tr><td>PHI</td><td>Philosophy </td></tr>
+
+<tr><td>PHI</td><td>Religion</td></tr>
+
+<tr><td>PHM</td><td>Philosophy </td></tr>
+
+<tr><td>PHP</td><td>Philosophy </td></tr>
+
+<tr><td>PHT</td><td>Physical Therapy</td></tr>
+
+<tr><td>PHY</td><td>Physics </td></tr>
+
+<tr><td>PHZ</td><td>Physics </td></tr>
+
+<tr><td>PKG</td><td>Packaging Science </td></tr>
+
+<tr><td>PLP</td><td>Biology - Botany</td></tr>
+
+<tr><td>PLP</td><td>Plant Pathology</td></tr>
+
+<tr><td>PLS</td><td>Agriculture</td></tr>
+
+<tr><td>PLS</td><td>Agronomy</td></tr>
+
+<tr><td>PLS</td><td>Environmental Horticulture </td></tr>
+
+<tr><td>PLS</td><td>Plant Pathology</td></tr>
+
+<tr><td>PLT</td><td>Languages, Literatures and Cultures - Polish</td></tr>
+
+<tr><td>PLW</td><td>Languages, Literatures and Cultures - Polish</td></tr>
+
+<tr><td>PMA</td><td>Entomology and Nematology</td></tr>
+
+<tr><td>PMA</td><td>Pest Management - Plant Protection</td></tr>
+
+<tr><td>POL</td><td>Languages, Literatures and Cultures - Polish</td></tr>
+
+<tr><td>POR</td><td>Spanish and Portuguese - Portuguese</td></tr>
+
+<tr><td>POS</td><td>Latin American Studies</td></tr>
+
+<tr><td>POS</td><td>Political Science </td></tr>
+
+<tr><td>POS</td><td>Religion</td></tr>
+
+<tr><td>POT</td><td>Political Science </td></tr>
+
+<tr><td>POW</td><td>Spanish and Portuguese - Portuguese</td></tr>
+
+<tr><td>PPE</td><td>Psychology </td></tr>
+
+<tr><td>PRT</td><td>Spanish and Portuguese - Portuguese</td></tr>
+
+<tr><td>PSB</td><td>Psychology </td></tr>
+
+<tr><td>PSY</td><td>Clinical and Health Psychology</td></tr>
+
+<tr><td>PSY</td><td>Psychology </td></tr>
+
+<tr><td>PUP</td><td>Political Science </td></tr>
+
+<tr><td>PUR</td><td>Mass Communication</td></tr>
+
+<tr><td>PUR</td><td>Public Relations</td></tr>
+
+<tr><td>QMB</td><td>Information Systems and Operations Management </td></tr>
+
+<tr><td>RCS</td><td>Behavioral Science & Community Health</td></tr>
+
+<tr><td>RCS</td><td>Health Professions</td></tr>
+
+<tr><td>RCS</td><td>Rehabilitation Counseling</td></tr>
+
+<tr><td>REA</td><td>Santa Fe Courses</td></tr>
+
+<tr><td>RED</td><td>Education - Special Education, School Psychology and Early Childhood Studies </td></tr>
+
+<tr><td>RED</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>RED</td><td>English </td></tr>
+
+<tr><td>RED</td><td>Writing Program</td></tr>
+
+<tr><td>REE</td><td>Finance, Insurance and Real Estate</td></tr>
+
+<tr><td>REL</td><td>Jewish Studies </td></tr>
+
+<tr><td>REL</td><td>Philosophy </td></tr>
+
+<tr><td>REL</td><td>Religion</td></tr>
+
+<tr><td>RLG</td><td>Religion</td></tr>
+
+<tr><td>RMI</td><td>Finance, Insurance and Real Estate</td></tr>
+
+<tr><td>RSD</td><td>Health Professions</td></tr>
+
+<tr><td>RSD</td><td>Occupational Therapy</td></tr>
+
+<tr><td>RSD</td><td>Rehabilitation Science</td></tr>
+
+<tr><td>RTV</td><td>Journalism </td></tr>
+
+<tr><td>RTV</td><td>Mass Communication</td></tr>
+
+<tr><td>RTV</td><td>Telecommunication </td></tr>
+
+<tr><td>RUS</td><td>Languages, Literatures and Cultures - Russian </td></tr>
+
+<tr><td>RUT</td><td>Languages, Literatures and Cultures - Russian </td></tr>
+
+<tr><td>RUW</td><td>Languages, Literatures and Cultures - Russian </td></tr>
+
+<tr><td>SCA</td><td>Languages, Literatures and Cultures - Swedish </td></tr>
+
+<tr><td>SCE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>SCT</td><td>Languages, Literatures and Cultures - Swedish </td></tr>
+
+<tr><td>SDS</td><td>Behavioral Science & Community Health</td></tr>
+
+<tr><td>SDS</td><td>Education - Human Development and Organizational Studies </td></tr>
+
+<tr><td>SDS</td><td>Rehabilitation Counseling</td></tr>
+
+<tr><td>SLS</td><td>Career Development Program</td></tr>
+
+<tr><td>SLS</td><td>Education - Teaching and Learning</td></tr>
+
+<tr><td>SLS</td><td>First Year Florida</td></tr>
+
+<tr><td>SLS</td><td>Interdisciplinary Studies</td></tr>
+
+<tr><td>SMT</td><td>Education - Teaching and Learning</td></tr>
+
+<tr><td>SOP</td><td>Psychology </td></tr>
+
+<tr><td>SPA</td><td>Speech, Language and Hearing Sciences</td></tr>
+
+<tr><td>SPA</td><td>Rehabilitation Science</td></tr>
+
+<tr><td>SPC</td><td>Communication Sciences and Disorders</td></tr>
+
+<tr><td>SPC</td><td>English </td></tr>
+
+<tr><td>SPC</td><td>Speech, Language, and Hearing SCI. </td></tr>
+
+<tr><td>SPC</td><td>Written and Oral Communication</td></tr>
+
+<tr><td>SPM</td><td>Applied Physiology and Kinesiology</td></tr>
+
+<tr><td>SPM</td><td>Tourism, Recreation and Sport Management </td></tr>
+
+<tr><td>SPN</td><td>Spanish and Portuguese - Spanish</td></tr>
+
+<tr><td>SPS</td><td>Education - Counselor Education </td></tr>
+
+<tr><td>SPS</td><td>Education - Special Education, School Psychology and Early Childhood Studies</td></tr>
+
+<tr><td>SPT</td><td>Spanish and Portuguese - Spanish</td></tr>
+
+<tr><td>SPW</td><td>Spanish and Portuguese - Spanish</td></tr>
+
+<tr><td>SRK</td><td>Religion</td></tr>
+
+<tr><td>SSA</td><td>African Studies</td></tr>
+
+<tr><td>SSA</td><td>Languages, Literatures and Cultures </td></tr>
+
+<tr><td>SSA</td><td>Languages, Literatures and Cultures - Yoruba</td></tr>
+
+<tr><td>SSE</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>SST</td><td>African Studies </td></tr>
+
+<tr><td>SST</td><td>Languages, Literatures and Cultures </td></tr>
+
+<tr><td>SSW</td><td>Languages, Literatures and Cultures </td></tr>
+
+<tr><td>SSW</td><td>Languages, Literatures and Cultures - Swahili</td></tr>
+
+<tr><td>STA</td><td>Agriculture</td></tr>
+
+<tr><td>STA</td><td>Epidemiology Health Policy Research</td></tr>
+
+<tr><td>STA</td><td>Health Outcomes & Policy</td></tr>
+
+<tr><td>STA</td><td>Public Health</td></tr>
+
+<tr><td>STA</td><td>Statistics </td></tr>
+
+<tr><td>STA</td><td>Statistics - CALS</td></tr>
+
+<tr><td>SUR</td><td>Forest Resources and Conservation - Geomatics</td></tr>
+
+<tr><td>SWA</td><td>African Studies</td></tr>
+
+<tr><td>SWA</td><td>Languages, Literatures and Cultures - Swahili</td></tr>
+
+<tr><td>SWS</td><td>Soil and Water Sciences</td></tr>
+
+<tr><td>SWW</td><td>Languages, Literatures and Cultures - Swahili</td></tr>
+
+<tr><td>SYA</td><td>Agriculture</td></tr>
+
+<tr><td>SYA</td><td>Sociology, Criminology and Law - Sociology</td></tr>
+
+<tr><td>SYD</td><td>Sociology, Criminology and Law - Sociology</td></tr>
+
+<tr><td>SYG</td><td>Agriculture</td></tr>
+
+<tr><td>SYG</td><td>Sociology, Criminology and Law - Sociology</td></tr>
+
+<tr><td>SYO</td><td>Religion</td></tr>
+
+<tr><td>SYO</td><td>Sociology, Criminology and Law - Sociology</td></tr>
+
+<tr><td>SYP</td><td>Sociology, Criminology and Law - Sociology</td></tr>
+
+<tr><td>TAX</td><td>Accounting </td></tr>
+
+<tr><td>THE</td><td>Theatre and Dance </td></tr>
+
+<tr><td>TPA</td><td>Theatre and Dance </td></tr>
+
+<tr><td>TPP</td><td>Theatre and Dance </td></tr>
+
+<tr><td>TSL</td><td>Education - Teaching and Learning </td></tr>
+
+<tr><td>TSL</td><td>Linguistics</td></tr>
+
+<tr><td>TTE</td><td>Civil and Coastal Engineering</td></tr>
+
+<tr><td>TUR</td><td>Center for European Studies</td></tr>
+
+<tr><td>URP</td><td>Urban and Regional Planning</td></tr>
+
+<tr><td>VEC</td><td>Horticultural Sciences</td></tr>
+
+<tr><td>VEM</td><td>Veterinary Medicine - Infectious Disease</td></tr>
+
+<tr><td>VEM</td><td>Veterinary Medicine - Large Animal Clinical Sciences</td></tr>
+
+<tr><td>VEM</td><td>Veterinary Medicine - Physiological Sciences</td></tr>
+
+<tr><td>VEM</td><td>Veterinary Medicine - Small Animal Clinical Sciences </td></tr>
+
+<tr><td>VIC</td><td>Mass Communication</td></tr>
+
+<tr><td>VIC</td><td>Visual Communication</td></tr>
+
+<tr><td>VME</td><td>Animal Sciences</td></tr>
+
+<tr><td>VME</td><td>Medicine</td></tr>
+
+<tr><td>VME</td><td>Public Health</td></tr>
+
+<tr><td>VME</td><td>Veterinary Medicine - General</td></tr>
+
+<tr><td>VME</td><td>Veterinary Medicine - Infectious Disease</td></tr>
+
+<tr><td>VME</td><td>Veterinary Medicine - Large Animal Clinical Sciences </td></tr>
+
+<tr><td>VME</td><td>Veterinary Medicine - Pathobiology</td></tr>
+
+<tr><td>VME</td><td>Veterinary Medicine - Physiological Sciences</td></tr>
+
+<tr><td>VME</td><td>Veterinary Medical Sciences</td></tr>
+
+<tr><td>VTN</td><td>African and Asian Languages and Literatures - Vietnamese </td></tr>
+
+<tr><td>VTT</td><td>Languages LIT/Culture - Vietnamese</td></tr>
+
+<tr><td>WIS</td><td>Forest Resources and Conservation </td></tr>
+
+<tr><td>WIS</td><td>Wildlife Ecology and Conservation </td></tr>
+
+<tr><td>WOH</td><td>History</td></tr>
+
+<tr><td>WOL</td><td>African Studies</td></tr>
+
+<tr><td>WOL</td><td>Languages LIT/Culture</td></tr>
+
+<tr><td>WOL</td><td>Languages, Literatures and Cultures - Wolof</td></tr>
+
+<tr><td>WST</td><td>Women's Studies</td></tr>
+
+<tr><td>XHO</td><td>African Studies</td></tr>
+
+<tr><td>XHO</td><td>Languages LIT/Culture</td></tr>
+
+<tr><td>XHO</td><td>Languages, Literatures and Cultures - Xhosa</td></tr>
+
+<tr><td>YOR</td><td>African Studies</td></tr>
+
+<tr><td>YOR</td><td>Languages, Literatures and Cultures - Yoruba</td></tr>
+
+<tr><td>YOT</td><td>Languages, Literatures and Cultures - Yoruba</td></tr>
+
+<tr><td>YRW</td><td>Languages, Literatures and Cultures - Yoruba</td></tr>
+
+<tr><td>ZOO</td><td>Biology - Zoology</td></tr>
+
+<tr><td>ZOO</td><td>Microbiology and Cell Science</td></tr>
